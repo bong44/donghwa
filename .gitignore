@@ -1,0 +1,20 @@
+# --- 배포에 불필요한 편집기/작업 산출물 ---
+image-slot.js
+support.js
+.image-slots.state.json
+.thumbnail
+uploads/
+screenshots/
+*.bak
+
+# --- 소스 아카이브 / 대체 export 파일 ---
+*.zip
+*.dc.html
+
+# --- 비공개 자료 (배포 금지) ---
+대화.txt
+이미지.jpg
+
+# --- OS ---
+.DS_Store
+Thumbs.db
